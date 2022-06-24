@@ -3,7 +3,7 @@
 
 
 You must install pytube module.
-```http
+```py
   pip install pytube && pip install --upgrade pytube
 ```
 
